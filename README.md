@@ -42,3 +42,6 @@ The dataset comprises various columns, each offering valuable insights into taxi
 Other columns are self-explanatory and contribute to the modeling process.
 
 
+### Output Model Decription 
+
+![model_comparison](https://github.com/sid2983/TaxiGuru/assets/60613424/caa48aba-b3ab-4570-9263-ba1b3e3f4b50)
